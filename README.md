@@ -29,7 +29,7 @@ O objetivo deste projeto é analisar o histórico de clientes e prever se um nov
   - **Matriz de Confusão**  
   - **Curva ROC-AUC**  
 
-### **4. Colocando em Produção**
+### **4. Colocando em Produção (em andamento)**
 - Construção de uma API usando **Flask**  
 - Deploy do modelo treinado para receber novos clientes e prever aprovação de crédito  
 - Testes da API e validação da resposta do modelo  
